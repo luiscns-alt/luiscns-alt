@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on app/website development
 - 📫 How to reach me luiscarlosnors@gmail.com
 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgabe&layout=compact&hide=css,html,shell&langs_count=6)](https://github.com/luiscns-alt/github-readme-stats)
+
+</div>
+
 <!---
 luiscns-alt/luiscns-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
