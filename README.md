@@ -3,7 +3,7 @@ Hi 👋 My name is Luis Carlos
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on app/website development
 - 📫 How to reach me luiscarlosnors@gmail.com
-============================
+-----------
 
 Web Develop
 -----------
